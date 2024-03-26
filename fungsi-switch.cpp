@@ -45,7 +45,8 @@ do
     switch (pilihan)
     {
     case 1:
-        input()
+        input();
+        cout << "Hasil penjumlahan = " << penjumlahan (bilA,bilB) << endl;
         break;
     
     default:
